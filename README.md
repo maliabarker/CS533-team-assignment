@@ -1,12 +1,12 @@
-## The CS 533 Team Assignment Notebook
-### **Team Members**
+# The CS 533 Team Assignment Notebook
+## **Team Members**
      * Shrutee Dwa
      * Rubal Goyal
      * Atharva Pargaonkar
      * Jack Cunningham
      * Malia Barker
 
-### **Due Dates** :
+## **Due Dates** :
 
      * **Checkpoint 1** : Proposal DUE October 20th
           The submitted proposal should include:
@@ -24,12 +24,12 @@
           * A 4-page technical report (using IJCAI/ACL/ACM/IEEE LaTeX templates);
           * The report (pdf), source codes with a README file and a demo notebook
 
-### **External Links** :
+## **External Links** :
     [Data Download](https://grouplens.org/datasets/movielens/25m/)
     [LaTeX Document]()
     [Google Docs]()
     [GitHub Repository]()
     [Class Canvas Page]()
 
-### **NOTES** :
+## **NOTES** :
      * This project uses large data files that exceed the GitHub upload limit. To access the data, see the Data Download link above.
