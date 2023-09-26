@@ -26,10 +26,12 @@
 
 ## **External Links**:
 [Data Download](https://grouplens.org/datasets/movielens/25m/)
-[LaTeX Document]()
-[Google Docs]()
-[GitHub Repository]()
-[Class Canvas Page]()
+
+[LaTeX Document](https://www.overleaf.com/project/64e95bfd74841c1b75e2da35)
+
+[GitHub Repository](https://github.com/maliabarker/CS533-team-assignment/tree/main)
+
+[Class Canvas Page](https://boisestatecanvas.instructure.com/courses/26765)
 
 ## **NOTES**:
 * This project uses large data files that exceed the GitHub upload limit. To access the data, see the Data Download link above.
